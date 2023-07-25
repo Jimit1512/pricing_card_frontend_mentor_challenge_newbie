@@ -1,0 +1,2 @@
+# pricing_card_frontend_mentor_challenge_newbie
+Implementation of frontend mentor challenge
