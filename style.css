@@ -19,7 +19,7 @@ h2,h4,p{
 
 .card{
     box-shadow: 2px 3px 7px 0px rgba(0,0,0,0.35);
-    width: 600px;
+    width: 576px;
     height: 400px;
     border-radius: 5px;
     overflow: hidden;
@@ -117,4 +117,10 @@ button:hover{
     list-style: none;
     color: #e5eff5;
     font-size: 0.8rem;
+}
+@media(max-width:585px){
+    #bls,#brs,.card{
+        width: 100%;
+        height: auto;
+    }
 }
