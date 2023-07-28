@@ -19,7 +19,7 @@ h2,h4,p{
 
 .card{
     box-shadow: 2px 3px 7px 0px rgba(0,0,0,0.35);
-    width: 576px;
+    width: 600px;
     height: 400px;
     border-radius: 5px;
     overflow: hidden;
@@ -118,7 +118,7 @@ button:hover{
     color: #e5eff5;
     font-size: 0.8rem;
 }
-@media(max-width:585px){
+@media(max-width:650px){
     #bls,#brs,.card{
         width: 100%;
         height: auto;
